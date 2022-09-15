@@ -1,4 +1,4 @@
-# GitHUb
+# GitHub
 
 Mi primer repositorio
 
